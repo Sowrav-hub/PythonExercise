@@ -1,2 +1,2 @@
-# HackerRank
-In this repository hackerRank problems solved by Python
+# PythonExercise
+In this repository exercism problems solved by Python
